@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="433px" height="526px" version="1.1"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<line x1="173.148748" y1="231.722896" x2="144.130299" y2="227.192311"  fill="none" stroke ="green" stroke-width="1" />
+<path d="M 101.987533,221.835698 A51.756443,1.579364 -4.887455 1,1 124.900609,216.793464" fill="none" stroke ="red" stroke-width="1" />
+<path d="M 16.081055,491.281524 A172.844839,172.844839 0.000000 0,1 98.404836,488.012692" fill="none" stroke ="blue" stroke-width="1" />
+<path d="M 107.953983,220.344946 A81.383280,81.383280 0.000000 0,1 145.206482,226.509022" fill="none" stroke ="blue" stroke-width="1" />
+<line x1="145.513626" y1="225.139512" x2="175.603443" y2="229.522975"  fill="none" stroke ="green" stroke-width="1" />
+<line x1="175.890683" y1="236.859032" x2="174.247588" y2="338.143211"  fill="none" stroke ="green" stroke-width="1" />
+<path d="M 292.501323,480.591302 A351.798530,351.798530 0.000000 0,1 97.741690,492.145889" fill="none" stroke ="blue" stroke-width="1" />
+<line x1="174.294136" y1="339.358683" x2="175.323969" y2="413.146647"  fill="none" stroke ="green" stroke-width="1" />
+<line x1="208.583719" y1="359.376615" x2="208.971038" y2="249.373578"  fill="none" stroke ="green" stroke-width="1" />
+<path d="M 15.071540,481.204678 A665.572699,665.572699 0.000000 0,1 193.306521,507.803169" fill="none" stroke ="blue" stroke-width="1" />
+<line x1="122.096548" y1="218.417209" x2="144.551645" y2="223.611332"  fill="none" stroke ="green" stroke-width="1" />
+<line x1="213.124266" y1="164.220086" x2="273.128843" y2="163.935641"  fill="none" stroke ="green" stroke-width="1" />
+<line x1="389.372418" y1="204.356820" x2="285.585602" y2="219.097605"  fill="none" stroke ="green" stroke-width="1" />
+<path d="M 235.071286,348.125487 A359.977234,359.977234 0.000000 0,1 234.902585,252.987189" fill="none" stroke ="blue" stroke-width="1" />
+<line x1="172.532208" y1="276.896743" x2="173.856871" y2="236.857858"  fill="none" stroke ="green" stroke-width="1" />
+<path d="M 267.079927,369.867548 A694.212134,694.212134 0.000000 0,1 264.059954,230.847197" fill="none" stroke ="blue" stroke-width="1" />
+<path d="M 236.573751,341.938661 A437.307771,437.307771 0.000000 0,1 235.452192,261.035698" fill="none" stroke ="blue" stroke-width="1" />
+<line x1="179.205523" y1="415.990746" x2="239.330701" y2="422.297335"  fill="none" stroke ="green" stroke-width="1" />
+<path d="M 67.383709,220.380107 A420.184897,420.184897 0.000000 0,1 206.427358,6.522147" fill="none" stroke ="blue" stroke-width="1" />
+<path d="M 283.310888,214.993649 A284.676804,284.676804 0.000000 0,1 286.384943,167.057591" fill="none" stroke ="blue" stroke-width="1" />
+<line x1="274.242616" y1="163.998224" x2="285.425104" y2="165.693537"  fill="none" stroke ="green" stroke-width="1" />
+<line x1="233.121184" y1="424.407817" x2="175.527882" y2="417.710111"  fill="none" stroke ="green" stroke-width="1" />
+<path d="M 281.840837,215.005721 A2777.473649,2777.473649 0.000000 0,1 280.607961,170.987794" fill="none" stroke ="blue" stroke-width="1" />
+<line x1="287.448287" y1="316.911439" x2="282.329504" y2="221.850526"  fill="none" stroke ="green" stroke-width="1" />
+<path d="M 172.457668,415.016736 A2230.839148,2230.839148 0.000000 0,1 172.469492,277.014569" fill="none" stroke ="blue" stroke-width="1" />
+<path d="M 264.290738,369.844094 A680.708856,680.708856 0.000000 0,1 261.796147,230.898271" fill="none" stroke ="blue" stroke-width="1" />
+<path d="M 239.988028,420.935640 A148.612289,148.612289 0.000000 0,1 293.225880,420.731790" fill="none" stroke ="blue" stroke-width="1" />
+<path d="M 209.138384,8.190647 A297.537125,297.537125 0.000000 0,1 385.560785,200.721173" fill="none" stroke ="blue" stroke-width="1" />
+<path d="M 387.027762,201.167554 A2592.463280,2592.463280 0.000000 0,1 284.999298,215.994388" fill="none" stroke ="blue" stroke-width="1" />
+<path d="M 301.680227,420.799523 A3922.198556,3922.198556 0.000000 0,1 282.943590,220.003804" fill="none" stroke ="blue" stroke-width="1" />
+<line x1="281.884587" y1="166.672622" x2="216.870918" y2="166.243492"  fill="none" stroke ="green" stroke-width="1" />
+<line x1="184.087582" y1="170.909565" x2="204.510323" y2="164.829548"  fill="none" stroke ="green" stroke-width="1" />
+<path d="M 71.043628,218.817436 A402.318275,402.318275 0.000000 0,1 209.821974,7.775200" fill="none" stroke ="blue" stroke-width="1" />
+<path d="M 233.381687,424.724627 A161.478923,161.478923 0.000000 0,1 293.335249,422.865932" fill="none" stroke ="blue" stroke-width="1" />
+<line x1="205.614128" y1="165.573764" x2="215.690879" y2="163.435451"  fill="none" stroke ="green" stroke-width="1" />
+<line x1="215.644930" y1="165.713047" x2="184.033941" y2="172.868231"  fill="none" stroke ="green" stroke-width="1" />
+<path d="M 179.608337,191.962981 A17.043810,17.043810 0.000000 0,1 185.093604,168.154322" fill="none" stroke ="blue" stroke-width="1" />
+<line x1="182.982317" y1="194.354874" x2="177.155430" y2="235.664556"  fill="none" stroke ="green" stroke-width="1" />
+<path d="M 193.950145,503.466515 A314.788848,314.788848 0.000000 0,1 360.518320,486.989490" fill="none" stroke ="blue" stroke-width="1" />
+<path d="M 182.162767,190.889421 A15.574254,15.574254 0.000000 0,1 182.747618,172.580968" fill="none" stroke ="blue" stroke-width="1" />
+<path d="M 294.987971,482.164941 A521.514960,521.514960 0.000000 0,1 426.643896,509.127520" fill="none" stroke ="blue" stroke-width="1" />
+<path d="M 207.152941,4.188363 A303.136843,303.136843 0.000000 0,1 385.861055,192.699194" fill="none" stroke ="blue" stroke-width="1" />
+<line x1="176.097806" y1="228.020609" x2="180.617147" y2="194.373945"  fill="none" stroke ="green" stroke-width="1" />
+<path d="M 285.486279,313.094862 A823.073497,823.073497 0.000000 0,1 298.063604,419.892896" fill="none" stroke ="blue" stroke-width="1" />
+<path d="M 360.864172,488.884841 A299.988013,299.988013 0.000000 0,1 426.667976,506.830859" fill="none" stroke ="blue" stroke-width="1" />
+</svg>
