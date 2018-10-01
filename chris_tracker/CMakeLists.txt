@@ -1,0 +1,24 @@
+cmake_minimum_required(VERSION 2.8.3)
+project(chris_tracker)
+
+find_package(catkin REQUIRED COMPONENTS roscpp geometry_msgs cv_bridge image_transport)
+
+find_package(OpenCV REQUIRED)
+
+include_directories(
+include 
+${catkin_INCLUDE_DIRS}
+${OpenCV_INCLUDE_DIRS}
+)
+
+## Declare a C++ executable
+add_executable(chris_detection src/main.cpp src/image.c src/pgm.c src/misc.c src/svg.c src/polygon.c src/ring.c src/elsdc.c src/iterator.c
+      src/curve_grow.c src/ellipse_fit.c src/rectangle.c src/gauss.c src/lapack_wrapper.c src/pgm.c src/polygon.c)
+
+## Specify libraries to link a library or executable target against
+target_link_libraries(chris_detection
+  ${catkin_LIBRARIES}
+  ${OpenCV_LIBRARIES}
+)
+
+target_link_libraries(chris_detection lapack blas)

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <name>wam_srvs</name>
+  <version>0.0.0</version>
+  <description>Catkin copy to have access to wam_srvs</description>
+
+  <maintainer email="oscar@rmz.ca">oramirez</maintainer>
+
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>message_generation</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+
+  <run_depend>message_runtime</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+
+  <export>
+  </export>
+
+</package>
